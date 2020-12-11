@@ -20,13 +20,13 @@ Software Requirements:
 
 2. Clone this repository onto your computer: https://github.com/...
 
-3. In your preferred terminal window, navigate into PROJECTNAME.SOLUTIONS/PROJECTNAME using cd (i.e. cd
-   desktop/PROJECTNAME.SOLUTIONS/PROJECTNAME) and open the project with your preferred code editor.
+3. In your preferred terminal window, navigate into Tutoring.Solution/Tutoring using
+    cd (i.e. cd desktop/Tutoring.Solution/Tutoring) and open the project with your preferred code editor.
 4. Run the following terminal command: $ dotnet restore
 
 5. To initiate this terminal program, run the command: $ dotnet run
 
-6. To run the test suite included with this project, within the terminal navigate into PROJECTNAME.TESTS and run the following commands:
+6. To run the test suite included with this project, within the terminal navigate into Tutoring.Tests and run the following commands:
   * $ dotnet restore
   * $ dotnet test
 
@@ -34,7 +34,13 @@ Software Requirements:
 
 User Stories:
 
+As a user, I want to search for cards by name in order to find my favorite cards
 
+As a user, I want to search for cards by color in order to find cards I can use
+
+As a user, I want to search for cards by mana cost in order to find high and low cost cards easier
+
+As a user, I want to search for cards by card type in order to find thematically similar cards
 
 ## Known Bugs
 
