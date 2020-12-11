@@ -30,6 +30,10 @@ Software Requirements:
   * $ dotnet restore
   * $ dotnet test
 
+[ScryFall API](https://scryfall.com/docs/api):
+
+Endpoint: https://api.scryfall.com
+
 ## Specs
 
 User Stories:
