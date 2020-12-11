@@ -1,10 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
-using ProjectName.Models;
+using Tutoring.Models;
 
-namespace ProjectName.Controllers
+namespace Tutoring.Controllers
 {
   public class HomeController : Controller
   {
-
+    public ActionResult Index()
+    {
+      return View();
+    }
   }
 }
