@@ -8,6 +8,8 @@
 
 _Tutoring is an application that will allow a user to search for any Magic: The Gathering card_
 
+[Capstone Proposal](https://docs.google.com/document/d/1NCYp7lvUeb6GWjMHd2G7k3887MbcMsXX3iFoPBk0oBI/edit)
+
 ## Setup/Installation Requirements
 
 Software Requirements:
