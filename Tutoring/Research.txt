@@ -1,2 +1,3 @@
 Links for Reference:
 https://www.learnhowtoprogram.com/c-and-net/building-an-api/api-create-and-read
+https://www.learnhowtoprogram.com/c-and-net/building-an-api/adding-parameters-to-a-get-request
