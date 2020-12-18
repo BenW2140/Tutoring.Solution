@@ -1,3 +1,4 @@
 Links for Reference:
 https://www.learnhowtoprogram.com/c-and-net/building-an-api/api-create-and-read
 https://www.learnhowtoprogram.com/c-and-net/building-an-api/adding-parameters-to-a-get-request
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
