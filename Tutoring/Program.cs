@@ -9,7 +9,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System.Threading;
 
-namespace WhatsThatThing
+namespace Tutoring
 {
     public class Program
     {
