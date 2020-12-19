@@ -6,3 +6,4 @@ https://www.learnhowtoprogram.com/c-and-net/building-an-api/getdetails-with-mvc
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
 https://stackoverflow.com/questions/9620278/how-do-i-make-calls-to-a-rest-api-using-c
 https://johnnycode.com/2012/02/23/consuming-your-own-asp-net-web-api-rest-service/
+https://rapidapi.com/blog/how-to-use-an-api-with-c-sharp/
