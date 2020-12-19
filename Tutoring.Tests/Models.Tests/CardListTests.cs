@@ -4,7 +4,7 @@ using Tutoring.Models;
 namespace Tutoring.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class CardListTests
   {
     // Test methods go here
   }

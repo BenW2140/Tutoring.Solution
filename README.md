@@ -30,6 +30,9 @@ Software Requirements:
   * $ dotnet restore
   * $ dotnet test
 
+
+API Info:
+
 [ScryFall API](https://scryfall.com/docs/api):
 
 Endpoint: https://api.scryfall.com
@@ -62,5 +65,7 @@ _Ben White: bwhite2140@outlook.com_
 ### License
 
 *MIT License*
+
+Tutoring is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
 Copyright (c) 2020 **_Ben White_**
