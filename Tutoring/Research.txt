@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/9620278/how-do-i-make-calls-to-a-rest-api-us
 https://johnnycode.com/2012/02/23/consuming-your-own-asp-net-web-api-rest-service/
 https://rapidapi.com/blog/how-to-use-an-api-with-c-sharp/
 https://scryfall.com/docs/api
+
+re-reading LHTP c#/.net material to refresh my memory and make sure im doing stuff correctly
