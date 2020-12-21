@@ -14,3 +14,5 @@ re-reading LHTP c#/.net material to refresh my memory and make sure im doing stu
 switched to asyncronous material for c#
 
 reading more about the api
+
+and back to asyncrony
