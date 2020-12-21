@@ -10,3 +10,5 @@ https://rapidapi.com/blog/how-to-use-an-api-with-c-sharp/
 https://scryfall.com/docs/api
 
 re-reading LHTP c#/.net material to refresh my memory and make sure im doing stuff correctly
+
+switched to asyncronous material for c#
