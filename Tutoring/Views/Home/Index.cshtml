@@ -1,0 +1,11 @@
+@{
+  Layout = "_Layout";
+}
+
+<h2>Tutor for a card</h2>
+@using (Html.BeginForm("Search"))
+{
+  <h4>Enter info about a card:</h4>
+  @Html.TextBox("parameter")
+  <input type="submit" value="parameter" class="btn btn-default">
+}
