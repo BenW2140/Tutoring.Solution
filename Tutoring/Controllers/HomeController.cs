@@ -27,7 +27,7 @@ namespace Tutoring.Controllers
       {
         cardList = await response.Content.ReadAsAsync<CardList>();
       }
-      return View();
+      return View(cardList);
     }
   }
 }
