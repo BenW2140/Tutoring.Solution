@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Tutoring.Models;
 
 namespace Tutoring.Controllers
 {
@@ -8,9 +9,9 @@ namespace Tutoring.Controllers
     {
       return View();
     }
-    public ActionResult Display()
+    public ActionResult Display(string parameter)
     {
-      
+      // CardList cardList = cardList.Search(parameter);
       return View();
     }
   }
