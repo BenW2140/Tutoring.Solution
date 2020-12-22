@@ -8,6 +8,8 @@ https://stackoverflow.com/questions/9620278/how-do-i-make-calls-to-a-rest-api-us
 https://johnnycode.com/2012/02/23/consuming-your-own-asp-net-web-api-rest-service/
 https://rapidapi.com/blog/how-to-use-an-api-with-c-sharp/
 https://scryfall.com/docs/api
+https://docs.microsoft.com/en-us/dotnet/csharp/async#:~:text=C%23%20has%20a%20language%2Dlevel,based%20Asynchronous%20Pattern%20(TAP).
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
 
 re-reading LHTP c#/.net material to refresh my memory and make sure im doing stuff correctly
 
@@ -16,3 +18,5 @@ switched to asyncronous material for c#
 reading more about the api
 
 and back to asyncrony
+
+there is a surprising amount of info on asyncrony
