@@ -31,3 +31,5 @@ reading the api
 still reading api
 
 back to reading about asyncrony
+
+researching querying apis again
