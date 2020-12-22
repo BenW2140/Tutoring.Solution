@@ -20,3 +20,5 @@ reading more about the api
 and back to asyncrony
 
 there is a surprising amount of info on asyncrony
+
+continuing to read about asyncrony
