@@ -11,8 +11,8 @@ namespace Tutoring.Controllers
     }
     public ActionResult Display(string parameter)
     {
-      // CardList cardList = cardList.Search(parameter);
-      return View();
+      CardList cardList = cardList.Search(parameter);
+      return View(cardList);
     }
   }
 }
