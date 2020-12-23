@@ -33,3 +33,5 @@ still reading api
 back to reading about asyncrony
 
 researching querying apis again
+
+looking around on LHTP cause I feel like im missing something obvious to get this to work
