@@ -11,11 +11,11 @@ namespace Tutoring.Controllers
   public class HomeController : Controller
   {
     static HttpClient client = new HttpClient();
-    public ActionResult Index()
+    public IActionResult Index()
     {
       return View();
     }
-    public async Task<ActionResult> Search(string parameter)
+    public async Task<IActionResult> Search(string parameter)
     {
       client.BaseAddress = new Uri("https://api.scryfall.com/cards/search?q=");
       client.DefaultRequestHeaders.Accept.Clear();
