@@ -13,6 +13,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
 https://www.codingame.com/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction
 http://web.cs.iastate.edu/~smkautz/cs430s14/tutorials/current/C%23AsyncPM_Tutorial.pdf
+https://www.freecodecamp.org/news/learn-javascript-by-making-digital-tabletop-games-and-web-apps/
 
 re-reading LHTP c#/.net material to refresh my memory and make sure im doing stuff correctly
 
